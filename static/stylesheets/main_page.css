@@ -1,0 +1,16 @@
+.mainPageButtons button {
+	background-color: blue;
+    float: center;
+    border: none;
+	color: white;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+	margin: 10px;
+}
+
+.mainPageButtons button:hover {
+	background-color: #00008B;
+}
